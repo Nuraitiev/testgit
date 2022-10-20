@@ -5,5 +5,7 @@ public class Main{
         System.out.println("На этом уроке мы рассмотрим что такое Git!");
         System.out.println("we finished, we can merge this to master!");
         System.out.println("small fix!");
+        System.out.println("Nohchiyn mot, git 1amosh gullam!");
+        System.out.println("1adika yoyla!");
     }
 }
