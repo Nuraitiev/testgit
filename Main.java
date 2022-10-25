@@ -7,5 +7,6 @@ public class Main{
         System.out.println("small fix!");
         System.out.println("Nohchiyn mot, git 1amosh gullam!");
         System.out.println("1adika yoyla!");
+        System.out.println(" Adam");
     }
 }
